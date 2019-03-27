@@ -1,0 +1,26 @@
+.flashy{
+    color: red;
+    font-style: italic;
+}
+
+p.best{
+    color: purple;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2.intro{
+    color: blue;
+    font-style: italic;
+    width: 75%;
+}
+
+p.intro{
+    color: gray;
+    font-weight: bold;
+}
+
+img.intro{
+    color: deeppink;
+    font-style: oblique;
+}
